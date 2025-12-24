@@ -1,9 +1,8 @@
 body {
     margin: 0;
     height: 100vh;
-    font-family: Arial, san-serif;
-    background-color: #370b57;
-    color: #ffffff;
+    font-family: Arial, sans-serif;
+    background-color: #330066; /* Indigo blue */
 }
 
 .container {
@@ -13,4 +12,16 @@ body {
     justify-content: center; /* vertical center */
     align-items: center;     /* horizontal center */
     text-align: center;
+    color: white;
+}
+
+.title {
+    font-size: 72px;
+    margin: 0;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: normal;
+    margin-top: 16px;
 }
